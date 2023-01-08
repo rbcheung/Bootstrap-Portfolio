@@ -1,0 +1,65 @@
+/* Navigation bar CSS */
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(56, 55, 55);
+}
+/* Hero CSS */
+.jumbotron {
+    background-image: url("../Images/banner\ 2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.display-4 {
+    font-weight: 600;
+    color: white;
+    font-size: 40px;
+    margin: 1px;
+}
+.hero-info {
+    color: white;
+}
+/* Work CSS */
+.card {
+    margin-top: 25px;
+    color:rgb(56, 55, 55);
+}
+/* About CSS */
+.about-section {
+    text-align: center;
+    padding: 20px;
+    border-right: solid rgb(56, 55, 55);
+    color: rgb(56, 55, 55);;
+}
+.about-section2 {
+    text-align: center;
+    padding: 20px;
+    color: rgb(56, 55, 55);
+}
+.about-section2 img {
+margin: 60px;
+margin-left: 140px;
+}
+/* Skills CSS */
+.skills-row {
+    margin-top: 30px;
+}
+.skills-section {
+    text-align: center;
+    border-right: solid rgb(56, 55, 55);
+    color: rgb(56, 55, 55);;
+}
+.skills-section2 {
+    text-align: center;
+    background-color: white;
+    color: rgb(56, 55, 55);;
+}
+/* Footer CSS */
+footer {
+    padding: 30px;
+    background-color:  rgb(56, 55, 55);
+    color: white;
+}
+footer a {
+    color: white;
+}
+
