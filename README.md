@@ -48,4 +48,4 @@ An about/contact section
 
 ## Link to Deployed Website
 
-https://rbcheung.github.io/PortfolioMadeWithFlexbox/
+https://rbcheung.github.io/Bootstrap-Portfolio/
